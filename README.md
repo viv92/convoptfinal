@@ -2,7 +2,7 @@
 
 ### Description
 
-This is the implementation code for CS519 final project on "Reformulation and Analysis of Trust Region Policy Optimization" algorithm with its application on optimizing an industrial operation using a discrete event simulator. The final report can be found [here](FinalReport_VivswanShitole.pdf)
+This is the implementation code for CS519 final project on "Reformulation and Analysis of Trust Region Policy Optimization" algorithm with its application on optimizing an industrial operation using a discrete event simulator. The final report can be found [here](FinalReport_VivswanShitole.pdf) (relative link)
 
 ### Run command:
 
